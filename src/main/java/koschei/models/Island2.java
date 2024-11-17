@@ -6,7 +6,6 @@ public class Island2 {
 
     private Wood3 wood;
 
-    @Autowired
     public Island2(Wood3 wood) {
         this.wood = wood;
     }
